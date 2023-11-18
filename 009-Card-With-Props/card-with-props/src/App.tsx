@@ -1,10 +1,10 @@
 import "./App.css";
-import HelloWorld from "./HelloWorld/HelloWorld";
+import MyCard from "./Component/MyCard/MyCard";
 
 function App() {
   return (
     <>
-      <HelloWorld />
+      <MyCard />
     </>
   );
 }
